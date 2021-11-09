@@ -12,7 +12,7 @@
     <li> Organic Salads <li>
     <li> Music and Poetry Readings <li>
     <li> Open Mic Night <li>
-  <ul>
+<ul>
     <br>
     <div> 12010 Garret Bay Road 
       <br>
