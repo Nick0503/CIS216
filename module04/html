@@ -1,1 +1,19 @@
-
+<h1>What an Ugly Page </h1>
+<h3> There's plenty of room for growth </h3>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+        <li>Coffee</li>
+        <li>Tea</li>
+              <li>Milk</li>
+              <li>Milk</li>
+  <li>Milk</li>
+  <li>Milk</li>
+</ul>
+<dl>
+  <dt>Rock</dt>
+  <dd>Where the Red Fern Grows</dd>
+  <dt>Breaking Bad</dt>
+  <dd>Shawshank Redemption</dd>
+</dl>
+<footer> 	&copy; Nicholas Ledesma </footer>
