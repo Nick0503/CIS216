@@ -14,7 +14,7 @@
     <li> Open Mic Night <li>
   <ul>
     <br>
-    <div> 12010 Garret Bay Road 
+    <div> 23241 Houbolt Rd 
       <br>
       Ellison Bay, WI 54210
       <br>
