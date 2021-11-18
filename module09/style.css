@@ -9,8 +9,9 @@ body   { background-color: #b89e81;
          background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif"); }
 
   wrapper {background-color: #231814;
-         width: 80%; marign-right: auto; margin-left: auto;
-          min-width: 900px;
+         width: 80%; marign-right: auto; 
+         margin-left: auto;
+         min-width: 900px;
          max-width: 1280px; box-shadow: 3px 3px #666;} 
 
 header { background-color: #D2B48C;
