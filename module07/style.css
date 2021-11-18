@@ -15,9 +15,7 @@ body   { background-color: #b89e81;
   
 h1  { background-color: #D2B48C;
        text-align: center; 
-       padding-top: 45px;
-       padding-left: 220px; 
-       font-size: 3em;}
+       padding-top: 45px; padding-left: 220px; font-size: 3em;}
 
 h4 { background-color: #D2B48C; 
      font-size: 1.2em;
@@ -42,8 +40,7 @@ wrapper {width: 80%;
          marign-right: auto;
          margin-left: auto;
          min-width: 900px;
-         max-width: 1280px;
-         box-shadow: 3px 3px #666}
+         max-width: 1280px; box-shadow: 3px 3px #666}
 
 
 details { left-padding: 20%;
