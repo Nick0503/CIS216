@@ -16,10 +16,11 @@ body   { background-color: #b89e81;
    background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif") }
    
   
-h1  { text-align: center; 
-    padding-top: 45px;
-    padding-left: 220px; 
-    font-size: 3em;}
+h1  { background-color: #D2B48C;
+       text-align: center; 
+       padding-top: 45px;
+       padding-left: 220px; 
+       font-size: 3em;}
 
 h4 { background-color: #D2B48C; 
      font-size: 1.2em;
