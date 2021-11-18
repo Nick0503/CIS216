@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 
-header, nav, main, footer; {display: block;}
+header, nav, main, footer {display: block;}
 
 body   { background-color: #b89e81; 
           background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif"); 
