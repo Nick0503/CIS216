@@ -15,8 +15,7 @@ body   { background-color: #b89e81;
    font-family: Arial, Verdana, sans-serif; }
    
   
-h1  { background-color: #D2B48C;
-     text-align: center; 
+h1  { text-align: center; 
     padding-top: 45px;
     padding-left: 220px; 
     font-size: 3em;}
