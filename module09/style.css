@@ -58,13 +58,13 @@ h4 { background-color: #D2B48C;
 
 
 #heroroad {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heroroad.jpg");
-         background-size:100%;  height: 250px;}
+         background-size:100% 100$;  height: 250px;}
 
 #heromugs {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heromugs.jpg");
-         background-size:100%; height: 250px; }
+         background-size:100% 100%; height: 250px; }
 
 #heroguitar {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heroguitar.jpg");
-         background-size:100%; height: 250px; }
+         background-size:100% 100%; height: 250px; }
 
 main h2, main h3, main h4,main p, main div, main ul, main dl {padding-left: 3em; padding-right: 2em; }
 
