@@ -14,3 +14,7 @@ footer { background-color: #D2B48C;
         font-size: .60em; 
         font-style: italic;
   text-align: center; }
+
+wrapper {width: 80%;
+         marign-right: auto;
+         margin-left: auto; }
