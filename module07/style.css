@@ -1,5 +1,13 @@
 head { background-color: #D2B48C;
- text-align: center; }
+ height: 150px;
+ background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/javajamlogo.jpg");
+ background-repeat: no repeat; }
+
+
+
+main { padding-left: 2em;
+       padding-right: 2em;
+ padding-bottom: 2em; }
 
 
 body   { background-color: #b89e81; 
@@ -9,14 +17,26 @@ body   { background-color: #b89e81;
   
 h1  { background-color: #D2B48C;
      text-align: center; 
-     line-height: 200% }
+    padding-top: 45px;
+    padding-left: 220px; 
+    font-size: 3em;}
+
+h4 { background-color: #D2B48C; 
+     font-size: 1.2em;
+     left-padding: .5em;
+ bottom-padding: .25em; }
 
 nav { font-weight: Bold;
-       text-align: center; }
+     font-size: 1.5em;
+     top-padding: 10px;
+     text-align: center; 
+     text-decoration: None;}
 
 footer { background-color: #D2B48C;
         font-size: .60em; 
         font-style: italic;
+        bottom-padding: 10px;
+        border-top: 2px; solid #221811;
   text-align: center; }
 
 wrapper {width: 80%;
@@ -26,3 +46,11 @@ wrapper {width: 80%;
          min-width: 900px;
          max-width: 1280px;
          box-shadow: }
+
+
+details { left-padding: 20%;
+          right-padding: 20%; }
+
+
+p { left-padding: 10px;
+ right-padding: 10px; }
