@@ -72,6 +72,6 @@ wrapper {background-color: #231814;
 
 main h2, main h3, main h4,main p, main div, main ul, main dl {padding-left: 3em; padding-right: 2em; }
 
-.floatleft {float:left; padding-right: 2em; padding-bottom: 2em; }
+.floatleft {float:left; padding-right: 20px; padding-bottom: 20px; }
 
 img { padding-left: 10px; padding-right: 10px; }
