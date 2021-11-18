@@ -25,8 +25,8 @@ h4 { background-color: #D2B48C;
 nav { font-weight: Bold;
      font-size: 1.5em;
      top-padding: 10px;
-     text-align: center; 
-     text-decoration: none;}
+         text-align: center;}
+    
 
 footer { background-color: #D2B48C;
         font-size: .60em; 
@@ -40,6 +40,8 @@ wrapper {width: 80%;
          background-color: #FEF6C2; min-width: 900px;
          max-width: 1280px; box-shadow: 3px 3px #666;}
 
+
+nav a { text-decoration: none;}
 
 details { left-padding: 20%;
           right-padding: 20%; }
