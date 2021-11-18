@@ -12,13 +12,11 @@ body   { background-color: #b89e81; color: #221811;
          background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif") }
    
   
-h1  { text-align: center; 
-       padding-top: 45px; padding-left: 220px; font-size: 3em;}
+h1  {padding-top: 45px; padding-left: 220px; font-size: 3em;}
 
 h4 { background-color: #D2B48C; 
      font-size: 1.2em;
-     left-padding: .5em;
-        bottom-padding: .25em; }
+     padding-left: .5em; bottom-padding: .25em; }
 
 nav { font-weight: Bold;
      font-size: 1.5em;
@@ -27,11 +25,10 @@ nav { font-weight: Bold;
     
 
 footer { background-color: #D2B48C;
+        text-align: center;
         font-size: .60em; 
         font-style: italic;
-        bottom-padding: 10px;
-        border-top: 2px; solid #221811;
-              text-align: center; }
+        padding-bottom: 10px; border-top: 2px; solid #221811; }
 
 wrapper {width: 80%; marign-right: auto; margin-left: auto;
          background-color: #FEF6C2; min-width: 900px;
