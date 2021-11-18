@@ -2,31 +2,24 @@
 
 header, nav, main, footer; {display: block;}
 
-header { background-color: #D2B48C;
-         height: 150px; 
-         background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/javajamlogo.jpg");
-         background-repeat: no-repeat; }
-
-main { padding-left: 0em; padding-right: 0em; padding-bottom: 2em; display:block;
-       margin-left: 200px; padding-top: 0px;
-          background-color: #FEF6C2;
-         display: block;}
-
-
 body   { background-color: #b89e81; 
           background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif"); 
          color: #221811;
          font-family: Arial, Verdana, sans-serif; 
          background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/background.gif"); }
-   
+
+  wrapper {background-color: #231814;
+         width: 80%; marign-right: auto; margin-left: auto;
+          min-width: 900px;
+         max-width: 1280px; box-shadow: 3px 3px #666;} 
+
+header { background-color: #D2B48C;
+         height: 150px; 
+         background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/javajamlogo.jpg");
+         background-repeat: no-repeat; }
   
 h1  {padding-top: 45px; padding-left: 220px; font-size: 3em;}
 
-h4 { background-color: #D2B48C; 
-     font-size: 1.2em;
-     padding-left: 10px; bottom-padding: 0em;
-     text-transform: uppercase; 
-     }
 
 nav { font-weight: Bold;
      font-size: 1.5em;
@@ -37,23 +30,26 @@ nav { font-weight: Bold;
 
 nav a { text-decoration: none;}
        nav a:link { color: #FEF6C2; }
-         nav a:visited { color: #D2B48C;} 
+       nav a:visited { color: #D2B48C;} 
        nav a:hover { color: #CC9933; }
-                nav ul {list-style-type: none ; padding-left: 0;}
-
-    
+       nav ul {list-style-type: none ; padding-left: 0;}
 
 footer { background-color: #D2B48C;
         text-align: center;
         font-size: .60em; 
         font-style: italic;
-        padding-bottom: 10px; border-top: 2px; solid #221811; }
+        padding-bottom: 10px; border-top: 2px; solid #221811; } 
 
-wrapper {background-color: #231814;
-         width: 80%; marign-right: auto; margin-left: auto;
-          min-width: 900px;
-         max-width: 1280px; box-shadow: 3px 3px #666;}
+main { padding-left: 0em; padding-right: 0em; padding-bottom: 2em; display:block;
+       margin-left: 200px; padding-top: 0px;
+          background-color: #FEF6C2;
+         display: block;}  
 
+h4 { background-color: #D2B48C; 
+     font-size: 1.2em;
+     padding-left: 10px; bottom-padding: 0em;
+     text-transform: uppercase; 
+     }
 
 .details { left-padding: 20%;
           right-padding: 20%; 
