@@ -3,7 +3,9 @@ header { background-color: #D2B48C;
          background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module07/image/javajamlogo.jpg");
          background-repeat: no-repeat; }
 
-main { padding-left: 2em; padding-right: 2em; padding-bottom: 2em; display:block; }
+main { padding-left: 0em; padding-right: 0em; padding-bottom: 2em; display:block;
+       margin-left: 200px; padding-top: 0px;
+          background-color: #FEF6C2}
 
 
 body   { background-color: #b89e81; color: #221811;
@@ -38,6 +40,21 @@ wrapper {width: 80%; marign-right: auto; margin-left: auto;
 
 .details { left-padding: 20%;
           right-padding: 20%; }
+
+* { box-sizing: border-box; }
+
+#heroroad {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heroroad.jpg");
+         background-size:100%; 
+         height: 250 pixels;}
+
+#heromugs {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heromugs.jpg");
+         background-size:100%; 
+         height: 250 pixels; }
+
+#heroguitar {background-image: url("https://raw.githubusercontent.com/Nick0503/CIS216/main/module09/image/heroguitar.jpg");
+         background-size:100%; 
+         height: 250 pixels; }
+
 
 
 img { padding-left: 10px; padding-right: 10px; }
