@@ -35,9 +35,8 @@ wrapper {width: 80%; marign-right: auto; margin-left: auto;
          max-width: 1280px; box-shadow: 3px 3px #666;}
 
 
-details { left-padding: 20%;
+.details { left-padding: 20%;
           right-padding: 20%; }
 
 
-p { left-padding: 10px;
- right-padding: 10px; }
+img { padding-left: 10px; padding-right: 10px; }
