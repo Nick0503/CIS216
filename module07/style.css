@@ -7,7 +7,7 @@ head { background-color: #D2B48C;
 
 main { padding-left: 2em;
        padding-right: 2em;
- padding-bottom: 2em; }
+       padding-bottom: 2em; }
 
 
 body   { background-color: #b89e81; 
@@ -25,7 +25,7 @@ h1  { background-color: #D2B48C;
 h4 { background-color: #D2B48C; 
      font-size: 1.2em;
      left-padding: .5em;
- bottom-padding: .25em; }
+        bottom-padding: .25em; }
 
 nav { font-weight: Bold;
      font-size: 1.5em;
@@ -38,7 +38,7 @@ footer { background-color: #D2B48C;
         font-style: italic;
         bottom-padding: 10px;
         border-top: 2px; solid #221811;
-  text-align: center; }
+              text-align: center; }
 
 wrapper {width: 80%;
          background-color: #FEF6C2;
