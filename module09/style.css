@@ -29,11 +29,13 @@ h4 { background-color: #D2B48C;
 nav { font-weight: Bold;
      font-size: 1.5em;
      top-padding: 10px;
-         text-align: center;}
+         text-align: center;
+      float: left; 
+       width: 200px;}
 
-nav a { text-decoration: none;
+nav a { text-decoration: none;}
        nav a:link { color: #FEF6C2; }
-       nav a:visited { color: #D2B48C; 
+         nav a:visited { color: #D2B48C;} 
        nav a:hover { color: #CC9933; }
                 nav ul {list-style-type: none ; padding-left: 0;}
 
