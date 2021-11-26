@@ -25,16 +25,60 @@
     background-color: grey
     }
   
-    .red {
+    black {
           grid-colum: 2fr;
           grid-row: 2fr;
-          background-color: red; 
-          
+          background-color: black;
+     
+        white {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: white; 
+
+
+    red {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: red;    
     }
 
-    purple {
+    orange {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: orange;    
+    }
+     yellow {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: yellow;    
+    }
+
+
+ green {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: green;    
+    }
+
+ cyan {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: cyan;    
+    }
+
+ blue {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: blue;    
+    }
+ violet {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: violet;    
+    }
+
+ purple {
           grid-colum: 1fr;
           grid-row: 8fr;
           background-color: purple; 
-          
     }
