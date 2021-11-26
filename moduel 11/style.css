@@ -1,8 +1,8 @@
-body {
-  display: grid;
-  grid-template-columns:1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
-  grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr; }
-   grid-template-areas: "black"
+ body {
+    display: grid;
+    grid-template-columns:1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
+    grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
+    grid-template-areas: "black"
                          "white"
                          "red"
                          "orange"
@@ -12,6 +12,13 @@ body {
                          "blue"
                          "violet"
                          "purple";
+    min-height: 100vh;
+    background-color: grey
+    }
   
-red {background-color: #red;
-    height: 2fr; width: 2fr}
+    red {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: red; 
+          
+    }
