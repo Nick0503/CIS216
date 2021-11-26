@@ -25,8 +25,8 @@
     }
   
     black {
-          grid-colum: 2fr;
-          grid-row: 2fr;
+          grid-colum: 1fr/8fr;
+          grid-row: 1fr/8fr;
           background-color: black;
      }
         white {
