@@ -2,11 +2,20 @@
 <head>
   <link href="style.css" rel="stylesheet">
   <style type ="text/css">
-  body {
+body {
     display: grid;
     grid-template-columns:1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
     grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
-    grid-template-areas: "black"
+    grid-template-areas: "black black black black black black, black, black"  
+                         "white"
+                         "red"
+                         "orange"
+                         "yellow" 
+                         "green"
+                         "cyan"
+                         "blue"
+                         "violet"
+                         "purple"
                          "white"
                          "red"
                          "orange"
@@ -17,35 +26,62 @@
                          "violet"
                          "purple";
     min-height: 100vh;
-    background-color: grey
     }
   
-    red { grid-area: red;
+    black {
           grid-colum: 2fr;
           grid-row: 2fr;
-          background-color: red; 
-          
+          background-color: black;
+     
+        white {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: white; 
+
+
+    red {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: red;    
     }
-  
-  
-</sytle>
-</head>
+
+    orange {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: orange;    
+    }
+     yellow {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: yellow;    
+    }
 
 
-   <body>
-  
-  
-      <div class = "black" </div>
-      <div class = "white" </div>
-      <div class = "red" </div>
-      <div class = "orange" </div>
-      <div class = "yellow" </div>
-      <div class = "green" </div>
-      <div class = "cyan" </div>
-      <div class = "blue" </div>
-      <div class = "violet" </div>
-      <div class = "purple" </div>
-</div>
-      
-</body>
-</html>
+ green {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: green;    
+    }
+
+ cyan {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: cyan;    
+    }
+
+ blue {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: blue;    
+    }
+ violet {
+          grid-colum: 2fr;
+          grid-row: 2fr;
+          background-color: violet;    
+    }
+
+ purple {
+          grid-colum: 1fr;
+          grid-row: 8fr;
+          background-color: purple; 
+    }
