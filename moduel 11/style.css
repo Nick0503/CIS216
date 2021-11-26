@@ -28,12 +28,12 @@
           grid-colum: 2fr;
           grid-row: 2fr;
           background-color: black;
-     
+     }
         white {
           grid-colum: 2fr;
           grid-row: 2fr;
           background-color: white; 
-
+}
 
     red {
           grid-colum: 2fr;
