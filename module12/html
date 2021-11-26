@@ -32,6 +32,63 @@
                 background-color: #00ff00;
                 /*GREEN = ON*/
             }
+            
+             @media screen and (min-width:556px) {
+            .container>.two {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+            
+             @media screen and (min-width:556px) and (max-width:665px) {
+            .container>.three {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+             @media screen and (min-width:666px) {
+            .container>.four {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+            
+             @media screen and (min-width:666px) and (max-width:998px) {
+            .container>.five {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+            
+             @media screen and (max-width:998px) {
+            .container>.six {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+        
+             @media screen and (min-width:999px) {
+            .container>.seven {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+             @media screen and (min-width:999px) and (max-width:1199px) {
+            .container>.eight {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+             @media screen and (min-width:1200px) and (max-width:1449px) {
+            .container>.nine {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
+            
+             @media screen and (min-width:1450px) {
+            .container>.ten {
+                background-color: #00ff00;
+                /*GREEN = ON*/
+            }
         }
     </style>
 </head>
