@@ -3,8 +3,8 @@
     grid-template-columns:1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
     grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
     grid-template-areas: "black black black black black black, black, black"  
-                         "white"
-                         "red"
+                         "white white white white"
+                         "red red red"
                          "orange"
                          "yellow" 
                          "green"
@@ -19,8 +19,8 @@
                          "green"
                          "cyan"
                          "blue"
-                         "violet"
-                         "purple";
+                         "violet violet violet "
+                         "purple purple purple";
     min-height: 100vh;
     }
   
@@ -35,7 +35,7 @@
           background-color: white; 
 }
 
-    red {
+    red {gird-area: red
           grid-colum: 2fr;
           grid-row: 2fr;
           background-color: red;    
