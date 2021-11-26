@@ -2,6 +2,16 @@ body {
   display: grid;
   grid-template-columns:1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
   grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr; }
-
-  red {background-color: #red;
+   grid-template-areas: "black"
+                         "white"
+                         "red"
+                         "orange"
+                         "yellow" 
+                         "green"
+                         "cyan"
+                         "blue"
+                         "violet"
+                         "purple";
+  
+red {background-color: #red;
     height: 2fr; width: 2fr}
